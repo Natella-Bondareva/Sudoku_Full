@@ -1,0 +1,20 @@
+D:\vs natel\ООП 23\Sudoku2\Sudoku2\obj\Debug\Sudoku2.csproj.AssemblyReference.cache
+D:\vs natel\ООП 23\Sudoku2\Sudoku2\obj\Debug\Sudoku2.Properties.Resources.resources
+D:\vs natel\ООП 23\Sudoku2\Sudoku2\obj\Debug\Sudoku2.csproj.GenerateResource.cache
+D:\vs natel\ООП 23\Sudoku2\Sudoku2\obj\Debug\Sudoku2.csproj.CoreCompileInputs.cache
+D:\vs natel\ООП 23\Sudoku2\Sudoku2\bin\Debug\Sudoku2.exe.config
+D:\vs natel\ООП 23\Sudoku2\Sudoku2\bin\Debug\Sudoku2.exe
+D:\vs natel\ООП 23\Sudoku2\Sudoku2\bin\Debug\Sudoku2.pdb
+D:\vs natel\ООП 23\Sudoku2\Sudoku2\obj\Debug\Sudoku2.exe
+D:\vs natel\ООП 23\Sudoku2\Sudoku2\obj\Debug\Sudoku2.pdb
+D:\vs natel\ООП 23\Sudoku2\Sudoku2\obj\Debug\Sudoku2.Form1.resources
+C:\Users\natel\Desktop\Sudoku2\Sudoku2\bin\Debug\Sudoku2.exe.config
+C:\Users\natel\Desktop\Sudoku2\Sudoku2\bin\Debug\Sudoku2.exe
+C:\Users\natel\Desktop\Sudoku2\Sudoku2\bin\Debug\Sudoku2.pdb
+C:\Users\natel\Desktop\Sudoku2\Sudoku2\obj\Debug\Sudoku2.csproj.AssemblyReference.cache
+C:\Users\natel\Desktop\Sudoku2\Sudoku2\obj\Debug\Sudoku2.Form1.resources
+C:\Users\natel\Desktop\Sudoku2\Sudoku2\obj\Debug\Sudoku2.Properties.Resources.resources
+C:\Users\natel\Desktop\Sudoku2\Sudoku2\obj\Debug\Sudoku2.csproj.GenerateResource.cache
+C:\Users\natel\Desktop\Sudoku2\Sudoku2\obj\Debug\Sudoku2.csproj.CoreCompileInputs.cache
+C:\Users\natel\Desktop\Sudoku2\Sudoku2\obj\Debug\Sudoku2.exe
+C:\Users\natel\Desktop\Sudoku2\Sudoku2\obj\Debug\Sudoku2.pdb
